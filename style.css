@@ -1,0 +1,84 @@
+body{
+    font-family: 'Fira Sans', 'Helvetica', sans-serif;
+}
+.main{
+    height: 629px;
+    width: 1062px;
+    border:3px solid rgba(0, 0, 0, 0.253);
+    margin: auto;
+    box-sizing: border-box;
+}
+h1 {
+    font-size: x-large;
+    text-align: center;
+    background: #424242;
+    color: #ddd;
+    padding: 10px;
+    margin-top: 10px;
+    margin: auto;
+    width: 1042px;
+    font-weight: 500;
+}
+.main2{
+    height: 580px;
+    width: 1022px;
+    border:3px solid rgba(0, 0, 0, 0.253);
+    display: flex;
+    padding: 7px;
+    margin: 12px auto;
+    margin-bottom: 8px;
+}
+.left{
+    height: 596px;
+    width: 343px;
+}
+.right{
+    height: 596px;
+    width: 686px;
+    font-size: 14px;
+    color: #383838;
+    /* border: 2px solid rgb(139, 88, 25); */
+    padding-left: 70px;
+    padding-right: 20px;
+}
+h2{
+    font-size: 21px;
+    color: #f44336;
+    font-weight: 700;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.a{
+    display: flex;
+}
+.album{
+    width: 150px;
+    height: 35px;
+font-weight: 700;
+font-size: 16px;
+margin-bottom: 7px;
+}
+.album-right{
+    width: 450px;
+    height: 35px;
+    font-size: 16px;
+    margin-left: 30px;
+    margin-bottom: 7px;
+}
+.description{
+font-size: 20px;
+font-weight: 700;
+}
+p{
+    width: 600px;
+    line-height: 21px;
+}
+.share{
+    font-weight: 600;
+    width: 180px;
+    font-size: 15px;
+    margin-top: 5px;
+}
+img{
+    margin-right: 5px;
+}
